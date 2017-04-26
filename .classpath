@@ -25,5 +25,11 @@
 	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/selenium-java-2.53.0/selenium-2.53.0/libs/netty-3.5.7.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/selenium-java-2.53.0/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/selenium-java-2.53.0/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/poi-bin-3.16-20170419/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/poi-bin-3.16-20170419/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlardizabal/Documents/poi-bin-3.16-20170419/poi-3.16/poi-scratchpad-3.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
